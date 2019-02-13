@@ -1,0 +1,19 @@
+\check Show Shellbooks Link Index
+\subMenu PBT-PNG
+\description Show Paratext link index for shellbooks.  Choose Input Project and then click Options to choose what shell books to show. 
+\script mbhShowShellbooksIndex.py
+\books
+\toList
+\noText
+\utf8
+\helpFile mbhShowShellBooks.rtf
+
+\optionName TextFilter
+\optionLocalizedName Shell book filter
+\optionDescription Enter ALL to show all the shell books, or enter the two letter category  (ex. AN) to show all the stories of one category, or enter a book number (ex.AN0005) for a specific shell book. 
+\optionDefault all
+
+\optionName ShowEmpty
+\optionLocalizedName Show empty shell books
+\optionDescription Enter NO to show only shell books containing text, or enter YES to show books with just shells along with books containg vernacular text.
+\optionDefault no
