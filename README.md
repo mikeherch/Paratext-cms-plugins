@@ -7,6 +7,8 @@ In this collection are three apps developed for use in the PNG branch of PBT. Th
 * Show Shellbooks Link Index – This app will display a chapter-verse index of shellbooks or original stories in a Paratext window. If you double-click on an item in the list, Paratext will jump to that chapter and verse.
 * Shellbooks To Publisher – This app will produce a report showing one or more Shell Books formatted specifically for copying and pasting text into Publisher shells. It has been optimized for pasting text into Publisher’s linked text boxes by replacing page numbers in the report with page breaks recognizable by Publisher. (The app does not copy the text into Publisher for you. It just makes the manual copying easier.)
 
+For more information on the function of these apps, read the help file mbhShowShellBooks.rtf
+
 To install:
 * Close Paratext application
 * Download all files to the cms folder in the Paratext 8 project folder of the user's computer. For most users,
