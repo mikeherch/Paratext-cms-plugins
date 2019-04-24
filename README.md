@@ -1,7 +1,7 @@
 # Paratext-cms-plugins
 The Paratext application (produced by SIL/UBS) has an API for executing Python scripts from within Paratext. This repository contains scripts that can be executed in this environment. For information on Paratext software go to https://pt8.paratext.org
 
-In this collection are three apps developed for use in the PNG branch of PBT. They are designed to be used Paratext books that are formatted according to the Standard for Literacy Content in Paratext.
+In this collection are three apps developed for use in the PNG branch of PBT. They are designed to be used Paratext books that are formatted according to the Standard for Literacy Content in Paratext (included as "Standard for Literacy Content in Paratext 0.5 MH 2018-03-14.docx").
 
 * Show Shellbooks Text – This app will produce a report in plain text showing one or more shell books or original stories without SFM markers (\ codes).
 * Show Shellbooks Link Index – This app will display a chapter-verse index of shellbooks or original stories in a Paratext window. If you double-click on an item in the list, Paratext will jump to that chapter and verse.
